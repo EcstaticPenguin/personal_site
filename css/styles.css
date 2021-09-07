@@ -44,19 +44,19 @@ body{
 
 .python{
   position: relative;
-  right: 10%;
+  right: 6%;
 }
 .html{
   position: relative;
-  right: 5%;
+  right: 3%;
 }
 .css{
   position: relative;
-  left: 2%;
+  left: 1%;
 }
 .csharp{
   position: relative;
-  left: 7%;
+  left: 5%;
 }
 #about_me{
   text-align: left;

@@ -25,8 +25,6 @@ body{
 
 }
 
-
-
 .name{
   font-size: 48px;
   font-family: 'MonteCarlo', cursive;
@@ -72,45 +70,7 @@ body{
   font-family: 'Merriweather', serif;
   line-height: 1.6;
 }
-.btn {
-   background: #D08C1E;
-   background-image: -webkit-linear-gradient(top, #D08C1E, #D08C1E);
-   background-image: -moz-linear-gradient(top, #D08C1E, #D08C1E);
-   background-image: -ms-linear-gradient(top, #D08C1E, #D08C1E);
-   background-image: -o-linear-gradient(top, #D08C1E, #D08C1E);
-   background-image: -webkit-gradient(to bottom, #D08C1E, #D08C1E);
-   -webkit-border-radius: 20px;
-   -moz-border-radius: 20px;
-   border-radius: 20px;
-   color: #FFFFFF;
-   font-family: Times New Roman;
-   font-size: 28px;
-   font-weight: 200;
-   padding: 6px;
-   -webkit-box-shadow: 1px 1px 20px 0 #FFE6E6;
-   -moz-box-shadow: 1px 1px 20px 0 #FFE6E6;
-   box-shadow: 1px 1px 20px 0 #FFE6E6;
-   text-shadow: 1px 1px 20px #000000;
-   border: solid #000000 1px;
-   text-decoration: none;
-   display: inline-block;
-   cursor: pointer;
-   text-align: center;
-}
 
-.btn:hover {
-   background: #BC8105;
-   border: solid #BC8105 1px;
-   background-image: -webkit-linear-gradient(top,#BC8105 , #BC8105);
-   background-image: -moz-linear-gradient(top, #BC8105, #BC8105);
-   background-image: -ms-linear-gradient(top, #BC8105, #BC8105);
-   background-image: -webkit-gradient(to bottom, #BC8105, #BC8105);
-   background-image: -o-linear-gradient(top, #BC8105, #BC8105);
-   -webkit-border-radius: 20px;
-   -moz-border-radius: 20px;
-   border-radius: 20px;
-   text-decoration: none;
-}
 hr {
   border: dotted #0A1931 8px;
   border-bottom: none;
